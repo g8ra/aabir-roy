@@ -1,7 +1,8 @@
 +++
 title = "Markdown Syntax Guide"
-draft = "true"
+date = "2020-01-03"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+draft = "true"
 tags = [
     "markdown",
     "syntax",
@@ -17,7 +18,7 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 
 ## Headings
 
-The following HTML `<h1>`-`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
 # H1
 ## H2
@@ -46,7 +47,7 @@ The blockquote element represents content that is quoted from another source.
 
 > Don't communicate by sharing memory, share memory by communicating.
 >
-> - Rob Pike[^1]
+> — Rob Pike[^1]
 
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
